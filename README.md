@@ -3,6 +3,7 @@
 ## Team Members: Derek Xu, Koen Lin, Louis Jimenez Hernandez, Jivesh Jain
 
 ## Project Demo:
+[PongfinityDemo](https://youtu.be/Y_IMuAsLws4)
 
 ## Overview: 
 We built on top of the 2020 EC311 pong project which was a one player pong. The previous project included a single paddle 
